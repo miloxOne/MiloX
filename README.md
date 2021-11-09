@@ -1,6 +1,6 @@
-# HollaEx API Documentation
+# MiloX API Documentation
 
-HollaEx API allows users to interact with HollaEx through RESTful API using any programming language.
+MiloX API allows users to interact with MiloX through RESTful API using any programming language.
 
 ### Prerequisites
 
